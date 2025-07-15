@@ -3,8 +3,6 @@ layout: default
 title: "Joana Madjoska"
 ---
 
-# Joana Madjoska
-
 Welcome to my personal website. Below you’ll find links to my publications, working paper, and blog posts.
 
 ## Publications
